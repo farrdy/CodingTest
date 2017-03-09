@@ -4,3 +4,9 @@ C:\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.pdb
 C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.csprojResolveAssemblyReference.cache
 C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.exe
 C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.pdb
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.exe.config
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.exe
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.pdb
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.csprojResolveAssemblyReference.cache
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.exe
+C:\Users\FaraiDev\Documents\CodingTest\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.pdb
