@@ -1,0 +1,6 @@
+C:\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.exe.config
+C:\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.exe
+C:\FaraiCSV\FaraiCSV\bin\Debug\FaraiCSV.pdb
+C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.csprojResolveAssemblyReference.cache
+C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.exe
+C:\FaraiCSV\FaraiCSV\obj\Debug\FaraiCSV.pdb
