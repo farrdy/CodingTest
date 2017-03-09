@@ -16,7 +16,7 @@ namespace FaraiCSV
         public Address Address { get; set; }
         public string PhoneNumber { get; set; }
 
-       
+     
         public bool Equals(Contact other)
         {
             if (other == null)
